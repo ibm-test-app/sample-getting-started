@@ -9,7 +9,7 @@
   </featureManager>
 
   <applicationManager autoExpand="true" />
-
+<!-- Just Testing Something-->
   <mpMetrics authentication="false" />
 
   <variable name="default.http.port" defaultValue="9080"/>
